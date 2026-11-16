@@ -1,3 +1,6 @@
+# https://github.com/AidenK-Gity/lab10-AK-AC
+# Partner 1: Aiden Kennedy
+# Partner 2: Andrew Citra
 import math
 
 # First example
