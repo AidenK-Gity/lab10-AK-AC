@@ -6,11 +6,8 @@ import math
 
 def square_root(a):
     try:
-        if a < 0:
-            raise ValueError("cannot take the squre root of a negative number")
         return math.sqrt(a)
     except ValueError as e:
-        print(f"Error: {e}")
         raise
 
 def hypotenuse(a, b):
