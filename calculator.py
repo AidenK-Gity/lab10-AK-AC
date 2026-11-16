@@ -8,7 +8,7 @@ def square_root(a):
         return math.sqrt(a)
     except ValueError as e:
         print(f"Error: {e}")
-        return None
+        raise
 
 def hypotenuse(a, b):
     try:
